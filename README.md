@@ -11,6 +11,13 @@ This repository contains holds ATLAS triggering objects necessary for making sen
  * HT Triggers: seeded from single/multijet lower level trigger.
  * MET Trigger: both Topo-cluster style & Jet style methods.
 
+## Current LLP Detectors Implemented:
+
+Within [Detector_sims](Detector_sims/) you'll find detector simulations written in `Mathematica` notebooks
+- [AL3X.nb](AL3X.nb) AL3X is a set of cyclindrical detectors at the ALICE experiment IP. Proposal: https://arxiv.org/abs/1811.01995
+
+
+
 ## Pythia Example
 
 - With the proper MAKE script
