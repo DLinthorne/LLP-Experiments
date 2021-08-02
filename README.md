@@ -23,7 +23,7 @@ Within [Detector_sims](Detector_sims/) you'll find detector simulations written 
 - [SHIP.nb](SHIP.nb) SHIP is a fixed target oblate cyclindrical detector using the SPSS IP. Specs based on https://arxiv.org/abs/2009.06003
 
 ## t-channel production
-Within[Feynrules](Feynrules/) you'll find A t-channel production model file used for proper forward scattering where the dark and visible sectors interact through a new scalar bi-fundamental.
+Within [Feynrules](Feynrules/) you'll find A t-channel production model file used for proper forward scattering where the dark and visible sectors interact through a new scalar bi-fundamental.
 
 The bi-fundamentals are denoted with su11, su12, su21, su22..., where u etc explicitly specifies the QCD flavour index and the numbers are the explicit dark non-Abelian group indices. Similarly, the dark quarks are labeled as qv11, qv12, qv21, qv22.
 
@@ -33,24 +33,16 @@ The bi-fundamentals are denoted with su11, su12, su21, su22..., where u etc expl
 
 - With the proper MAKE script
 ```
-make efftemp
+make EJListOut
 ```
-- Run the example triggering script using model file `model_script_X.dat`
+- Run the script using model file `model_script_X.dat`
 ```
-./efftemp model_script_X.dat 
+./EJListOut model_script_X.dat 
 ```
 ## References
 
 If you use this code, please cite our paper:
 
 ```
-@article{Linthorne:2021oiz,
-    author = "Linthorne, Dylan and Stolarski, Daniel",
-    title = "{Triggering on Emerging Jets}",
-    eprint = "2103.08620",
-    archivePrefix = "arXiv",
-    primaryClass = "hep-ph",
-    month = "3",
-    year = "2021"
-}
+Soon to come
 ```
