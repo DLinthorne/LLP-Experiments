@@ -1,9 +1,6 @@
 # LLP-Experiments
 Emerging jets at Long Lived Particle Experiments
 
-<img src="Plots/Scalar/All.pdf" alt="fits image with coordinate change" width="500"/>
-
-
 ## Current LLP Detectors Implemented
 
 Within [Detector_sims](Detector_sims/) you'll find detector simulations written in `Mathematica` notebooks:
