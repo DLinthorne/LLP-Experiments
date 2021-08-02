@@ -2,8 +2,8 @@
 Emerging jets at Long Lived Particle Experiments
 
 <p float="left">
-  <img src="Plots/Scalar Mass/All.pdf" width="100" />
-  <img src="Plots/Scalar Mass/All.pdf" width="100" />
+  <img src="Plots/Scalar Mass/All.pdf" width="10" />
+  <img src="Plots/Scalar Mass/All.pdf" width="10" />
 </p>
 
 ## Current LLP Detectors Implemented
