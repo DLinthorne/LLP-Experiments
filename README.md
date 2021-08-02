@@ -1,10 +1,8 @@
 # LLP-Experiments
 Emerging jets at Long Lived Particle Experiments
 
-<p float="left">
-  <img src="Plots/Scalar/All.pdf" width="10" />
-  <img src="Plots/Scalar/All.pdf" width="10" />
-</p>
+<img src="Plots/Scalar/All.pdf" width="10" />
+
 
 ## Current LLP Detectors Implemented
 
