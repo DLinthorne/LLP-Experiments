@@ -34,5 +34,12 @@ make EJListOut
 If you use this code, please cite our paper:
 
 ```
-Soon to come
+@article{archersmith2021emerging,
+      title={Emerging Jets Displaced into the Future}, 
+      author={Paul Archer-Smith and Dylan Linthorne and Daniel Stolarski},
+      year={2021},
+      eprint={2112.05690},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph}
+}
 ```
